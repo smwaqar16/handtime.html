@@ -667,7 +667,8 @@ a:focus {
 }
 
 .client_section .box .img-box img {
-  width: 100%;
+  width: 102%;
+  margin: 4PX;
 }
 
 .client_section .box .client_info {
